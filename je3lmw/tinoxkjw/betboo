@@ -1,0 +1,203 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta charset="utf-8">
+
+<title>Betboo</title>
+
+<meta name="description" content="Betboo" />
+
+<meta name="keywords" content="Betboo">
+
+<meta name="generator" content=" Бесплатные программы для Windows ПК (https://zoomexe.net)">
+
+<meta property="og:site_name" content="Бесплатные программы для компьютера Windows! Скачать бесплатно софт ПК!">
+
+<meta property="og:type" content="article">
+
+<meta property="og:title" content="Soundfont Midi Player 5.7">
+
+<meta property="og:url" content="https://zoomexe.net/multimed/players/3410-soundfont_midi_player.html">
+
+<meta property="og:image" content="https://zoomexe.net/uploads/posts/2016-07/1469647802_midiplayer.png">
+
+<meta property="og:description" content=" Soundfont Midi Player — название программы, без всяких комментариев, дает четкое представление о назначении данного продукта. Это бесплатно распространяемый плеер для воспроизведения MIDI, является достаточно мощным программным обеспечением для прослушивания MIDI не только с жесткого диска, но и">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://zoomexe.net/index.php?do=opensearch" title="Бесплатные программы для компьютера Windows! Скачать бесплатно софт ПК!">
+
+<link rel="canonical" href="https://zoomexe.net/multimed/players/3410-soundfont_midi_player.html">
+
+<link rel="alternate" type="application/rss+xml" title="Бесплатные программы для компьютера Windows! Скачать бесплатно софт ПК!" href="https://zoomexe.net/rss.xml">
+
+<link href="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=26" rel="stylesheet" type="text/css">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="/templates/smartphone/css/engine.css" rel="stylesheet">
+
+<link href="/templates/smartphone/css/style.css" rel="stylesheet">
+
+ 
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<!--[if lt IE 9]><script src="/templates/smartphone/js/html5shiv.js" type="text/javascript"></script><![endif]-->
+
+ 
+
+</head>
+
+<body>
+
+	 
+
+	<div id="toolbar">
+
+		<div id="in-toolbar">
+
+			
+
+
+
+ 
+
+	<form class="login-form" method="post" action="">
+
+		<ul>
+
+			<li><label for="login_name">Логин:</label>
+
+			<input class="f_input" type="text" name="login_name" id="login_name" ></li>
+
+			<li><label for="login_password">Пароль:</label>
+
+			<input class="f_input" type="password" name="login_password" id="login_password" ></li>
+
+		</ul>
+
+		<div class="submitline">
+
+			<button onclick="submit();" type="submit" title="Войти" class="btn f_wide">Войти</button>
+
+		</div>
+
+		<div class="log-links">
+
+			<a href="https://zoomexe.net/index.php?do=lostpassword"> </a><!-- LogoType [E] -->
+
+		<!--Search-->
+
+		</div></form></div></div></div><header id="header"><form id="quicksearch" method="post" action=''>
+
+			<input type="hidden" name="do" value="search">
+
+			<input type="hidden" name="subaction" value="search">
+
+			<div class="quicksearch">
+
+				<input class="f_input" placeholder="Поиск..." name="story" value="" type="search">
+
+				<button type="submit" title="Search" class="thd">Найти</button>
+
+			</div>
+
+		</form>
+
+		<!--Search [E]-->
+
+		 
+
+	</header>
+
+	<section id="content">
+
+		
+
+		<div id='dle-content'>
+
+<article class="post fullstory">
+
+	<h1 class="title">Betboo</h1>
+
+	<ul class="post-info">
+
+		<li class="iauthor ico"> </li></ul>
+
+	<div class="post-cont clrfix">
+
+		<p><!--TBegin:https://zoomexe.net/uploads/posts/2016-07/1469647802_midiplayer.png|left|Soundfont Midi Player от Falcosoft--> <img data-src="/uploads/posts/2016-07/thumbs/1469647802_midiplayer.png" style="float:left;max-width:100%;" alt="Soundfont Midi Player от Falcosoft"> </p>
+
+		<p>   <span style="color:#477491;"><i><b>
+
+
+
+</b></i></span> </p></div></article><div class="box commentbox"><form method="post" name="dlemasscomments" id="dlemasscomments"><div id="dle-comments-list"><div id='comment-id-16367'><div id="comid-1" class="comment vcard">
+
+</div></div></div></form>
+
+
+
+</div><form  method="post" name="dle-comments-form" id="dle-comments-form" ><div class="ux-form">
+
+  <h3>&nbsp; </h3>
+
+  <ul class="ui-form">
+
+    
+
+    <li><input placeholder="Имя" type="text" name="name" id="name" class="f_input f_wide"></li>
+
+    <li><input placeholder="E-mail" type="email" name="mail" id="mail" class="f_input f_wide"></li>
+
+    
+
+    <li><textarea placeholder="Сообщение" rows="3" name="comments" id="comments" class="f_textarea f_wide">{text}</textarea></li>
+
+    
+
+    
+
+    
+
+  </ul>
+
+  <div class="submitline">
+
+    <button class="btn f_wide" type="submit" name="submit">Отправить комментарий</button>
+
+  </div>
+
+</div>
+
+		<input type="hidden" name="subaction" value="addcomment">
+
+		<input type="hidden" name="post_id" id="post_id" value="3410"><input type="hidden" name="user_hash" value="785ac6eca1aab659bfbbdb5634960b45e3cb23c2"></form></div>
+
+	</section>
+
+	<div id="footmenu">
+
+		
+
+			<span class="nav-sep"></span>
+
+  © 2020</div><footer id="footer">
+
+	</footer>
+
+ 
+
+</body>
+
+</html>

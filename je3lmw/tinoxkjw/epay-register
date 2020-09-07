@@ -1,0 +1,195 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Epay register</title>
+
+  <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+
+  <link rel="stylesheet" href="/css/base.css"/>  <link rel="stylesheet" href="/css/cake.css"/>  <link rel="stylesheet" href="/css/bootstrap.css"/>  <link rel="stylesheet" href="/css/bootstrap-responsive.css"/>  <link rel="stylesheet" href="/css/style.css"/>        </head>
+
+<body>
+
+  <header>
+
+    <div class="header-title container">
+
+     <img src="/img/logo.png" alt="Каталог товаров Досточка" title="Каталог товаров Досточка" width='193' height='50'> 
+
+      <div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter,lj,viber" data-counter=""></div>
+
+      </div>
+
+    </div>
+
+  </header>
+
+    <div class="navbar navbar-inverse navbar-fluent-top">
+
+  <div class="navbar-inner">
+
+    <div class="container">
+
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+
+        <span class="icon-bar"></span>
+
+        <span class="icon-bar"></span>
+
+        <span class="icon-bar"></span>
+
+      </button>
+
+      
+
+      <div class="nav-collapse collapse"><ul class="nav"><li class="dropdown active"></li></ul></div></div></div></div><div id="body"><div class="container"><div id="content"><div class="row"><div class="actions columns column3"><div class="atributes blockborder"><ul class="akkordeon"><li><div class='attrvalues'></div></li></ul></div><div class="atributes blockborder">
+
+<ul class="akkordeon">  
+
+  <li><div class='attrvalues'></div>
+
+  </li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<div class="categories index column9 columns">
+
+  <div class="categoryheader">
+
+    <div class='left'><img src='https://dostochka.com/img/none.png'  alt='Синтезаторы' title='Синтезаторы'  class='category_img'  width='60'  height='60' ></div>
+
+    <div class='left'><h1>Epay register</h1>
+
+    </div>
+
+    <div class='left'></div>
+
+  </div>
+
+
+
+  
+
+  
+
+    
+
+  <div class="categoryheader borderbottom">
+
+  <h4>&nbsp; </h4>
+
+  <div id='sortblock'> </div>
+
+  </div>
+
+  <div class="textcenter">
+
+    </div>
+
+  <div class="categoryheader borderbottom">
+
+          <div class='product_big'>
+
+          <div class='tovar_img'> 
+
+          <img src='https://dostochka.com/img/newitems/casio/wk-7600-76-klavish-usb-aux-sd-chernyy/medium_wk-7600-76-klavish-usb-aux-sd-chernyy.jpg'  alt='Синтезатор Casio WK-7600 76 клавиш USB AUX SD черный' title='Синтезатор Casio WK-7600 76 клавиш USB AUX SD черный'  class='productimages' > 
+
+          </div>
+
+          <div class='desc'>
+
+            <h4 class='productbig_title'>
+
+
+
+</h4>
+
+            <div id='buyblock'> </div>
+
+            <div class='tovar_description'></div>
+
+          </div>
+
+        
+
+      </div>
+
+      </div>
+
+   
+
+ 
+
+
+
+</div>
+
+              </div>
+
+          </div>
+
+      </div>
+
+    </div>
+
+        <div id='nav-footer'>
+
+  <div class="container footer_bottom">
+
+  <div class='socials'>
+
+    <ul class='socials_list'>
+
+      <li>
+
+        
+
+      </li>
+
+    </ul>
+
+  </div>
+
+
+
+  <div class='copyright'>
+
+    &copy; 2014 
+
+     Dostochka.com 
+
+    All Rights Reserved.
+
+  </div>
+
+  </div>
+
+</div>
+
+  <div class='clear'></div>
+
+<footer class="container">
+
+    <dl id="treehouse">
+
+      <dt> </dt>
+
+       <div><img src="//mc.yandex.ru/watch/30133659" style="position:absolute; left:-9999px;" alt="" /></div> 
+
+<!-- /Yandex.Metrika counter --></body>
+
+</html>

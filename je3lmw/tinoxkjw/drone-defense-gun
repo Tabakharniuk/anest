@@ -1,0 +1,891 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+    <link href="https://samplepro.ru/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <meta charset="utf-8">
+
+<title>Drone defense gun</title>
+
+<meta name="description" content="Drone defense gun">
+
+<meta name="keywords" content="Drone defense gun">
+
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://samplepro.ru/engine/opensearch.php" title="Скачать сэмплы | VST Инструменты | Плагины VST | Пресеты | Лупы | Синтезаторы">
+
+<link rel="alternate" type="application/rss+xml" title="Скачать сэмплы | VST Инструменты | Плагины VST | Пресеты | Лупы | Синтезаторы" href="https://samplepro.ru/rss.xml" />
+
+    
+
+ 
+
+    <meta name="yandex-verification" content="9fa5d139af38bcbe" />
+
+ 
+
+        <link rel="stylesheet" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/font-awesome.min.css">
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/reset.css">
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/styles.css">
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/engine.css">
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/bbcodes.css">
+
+        
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/blockpro/css/blockpro.css">
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/zoomsounds_player/audioplayer/audioplayer.css"/>
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/zoomsounds_player/audioplayer/audioportal-grid.css"/>
+
+        <link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?f=/templates/mimimi_1/style/demo.css">
+
+        
+
+    
+
+    <meta name='advmaker-verification' content='e0bbf9a7520a6fdb66c8ef630db567a4'/>
+
+</head>
+
+<body>
+
+ 
+
+<header>
+
+    <div id="top-header">
+
+        <div class="center">
+
+            <div class="logotop"><img src="/uploads/fotos/logo.png"></div>
+
+             
+
+            <ul id="top-nav"><li class="dropdown">
+
+                </li>
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+            </ul>
+
+
+
+            
+
+
+
+            <div id="search-panel">
+
+                <div class="center">
+
+                    <div id="search-bar">
+
+                        <form action="" name="searchform" method="post">
+
+                            <input type="hidden" name="do" value="search" />
+
+                            <input type="hidden" name="subaction" value="search" />
+
+                            <input type="text" name="story" placeholder="Введите запрос и нажмите Enter">
+
+                            <button type="submit" class="fa fa-search"></button>
+
+                        </form>
+
+                    </div>
+
+                    
+
+
+
+      </div></div></div></div><div id="bottom-header"><div class="center"><div id="mini-profile"><div id="modal-box">
+
+        <div id="modal-content">
+
+        
+
+            <form method="post" action="">
+
+          <div id="left-modal">
+
+            <label>Логин:</label>
+
+            <input type="text" name="login_name" id="login_name">
+
+            <label>Пароль</label>
+
+            <input type="password" name="login_password" id="login_password">
+
+            <button onclick="submit();" type="submit">Войти</button>
+
+            
+
+          </div>
+
+           </form>
+
+           
+
+  </div>
+
+ </div></div></div></div></header>
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+<div id="wrapper">
+
+
+
+    <section id="content-wrap" >
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+        <article class="short-story">
+
+            <div class="short-left">
+
+              <div class="norm-text">
+
+                    <h1>Drone defense gun</h1>
+
+                    <strong> </strong><br>
+
+                    <br>
+
+                    <TABLE WIDTH="100%">
+
+                        <TD>
+
+                            <div class="top-line"></div>
+
+                            <ul class="static-ul">
+
+                                <li> </li>
+
+                            </ul></TD>
+
+
+
+                        <TD>
+
+                            <div class="top-line"></div>
+
+                            <ul class="static-ul">
+
+                                <li> </li>
+
+                            </ul></TD></TABLE>
+
+              </div></div>
+
+
+
+
+
+            <div align="right"><p>
+
+
+
+                   
+
+                        <div class="wrapper">
+
+                            <div class="item"><img alt="Скачать Fl Studio последней версии с торрента кряк русская версия" src="/templates/mimimi/images/flstudio.png" />
+
+ <span class="information">
+
+ <strong> </strong></span></div></div></a></div></article><article class="short-story short-programm"><div class="short-left"></div></article>
+
+        <table width="100%"><td>
+
+                <article class="short-story">
+
+                    <div class="short-left">
+
+                        <h1><i class="fa fa-music"></i> <strong></strong></h1>
+
+                        <p><strong> </strong></div>
+
+                </article>
+
+            </td>
+
+
+
+
+
+            <td>
+
+                <article class="samp1-story"><div align="left"><div class="block-content">
+
+
+
+                            <form action="/" name="search_xf" method="get" id="xf">	
+
+		<input type="hidden" name="do" value="search_xf" />
+
+		<input type="hidden" name="loc" value="1" />
+
+
+
+
+
+   <div class="cat">Укажите темп<div class="zakladka">*<b>Bpm</b></div></div><br>
+
+    
+
+<table wight="100%">
+
+  <td><div class="checkbox1" style="margin-right:7px;"><input type="checkbox" name="5079" value="5079" id="temp1"><label for="temp1">50-80</label></div><br></td>
+
+  <td><div class="checkbox1" style="margin-right:12px;"><input type="checkbox" name="80119" value="halion" id="temp2"><label for="temp2">80-120</label></div><br></td>
+
+  <td><div class="checkbox1" style="margin-right:6px;"><input type="checkbox" name="120159" value="nexus" id="temp3"><label for="temp3">120-160</label></div><br></td>
+
+  <td><div class="checkbox1"><input type="checkbox" name="160" value="160" id="temp4"><label for="temp4">160+</label></div><br></td></table>
+
+    
+
+    
+
+    
+
+<div class="cat">Выберите тип сэмплов</div><br>
+
+    
+
+<table wight="100%">
+
+   <td><div class="checkbox1" style="margin-right:-10px;"><input type="checkbox" name="kontakt" value="kontakt" id="type1"><label for="type1">One-shot</label></div><br></td>
+
+   <td><div class="checkbox1" style="margin-right:23px;"><input type="checkbox" name="halion" value="halion" id="type2"><label for="type2">Лупы</label></div><br></td>
+
+   <td><div class="checkbox1" style="margin-right:4px;"><input type="checkbox" name="nexus" value="nexus" id="type3"><label for="type3">Пресеты</label></div><br></td>
+
+   <td><div class="checkbox1"><input type="checkbox" name="sylenth1" value="sylenth1" id="type4"><label for="type4">Midi</label></div><br></td></table>
+
+    
+
+    
+
+<div class="cat">Пресеты для...<img src="/uploads/img/tryg.png"></div><br>
+
+    
+
+<table wight="100%">
+
+   <td><div class="checkbox1" style="margin-right:-2px;"><input type="checkbox" name="kontakt" value="kontakt" id="check"><label for="check">Kontakt</label></div><br></td>
+
+   <td> <div class="checkbox1" style="margin-right:-1px;"><input type="checkbox" name="halion" value="halion" id="check1"><label for="check1">Halion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label></div><br></td>
+
+   <td><div class="checkbox1" style="margin-right:-3px;"><input type="checkbox" name="nexus" value="nexus" id="check2"><label for="check2">Nexus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label></div><br></td>
+
+   <td> <div class="checkbox1"><input type="checkbox" name="sylenth1" value="sylenth1" id="check3"><label for="check3">Sylenth</label></div><br></td>
+
+</table>
+
+    
+
+<table wight="100%">
+
+   <td><div class="checkbox1" style="margin-right:13px;"><input type="checkbox" name="kontakt" value="kontakt" id="check4"><label for="check4">Spire</label></div><br></td>
+
+   <td><div class="checkbox1" style="margin-right:-9px;"><input type="checkbox" name="halion" value="halion" id="check5"><label for="check5">Massive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label></div><br></td>
+
+   <td><div class="checkbox1" style="margin-right:-8px;"><input type="checkbox" name="nexus" value="nexus" id="check6"><label for="check6">Battery&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label></div><br></td>
+
+   <td><div class="checkbox1"><input type="checkbox" name="sylenth1" value="sylenth1" id="check3"><label for="check7">Reason</label></div><br></td>
+
+</table>
+
+    
+
+    
+
+<div class="cat">Выберите категорию</div><br>
+
+<table wight="100%"><td>
+
+    <div class="checkbox2"><input type="checkbox" name="drum" value="D" id="Drum"><label for="Drum">&nbsp;Ударные</label></div><br>
+
+    <div class="checkbox2"><input type="checkbox" name="str" value="S" id="Str"><label for="Str">&nbsp;Струнные</label></div><br></td>
+
+
+
+<td><div class="checkbox2"><input type="checkbox" name="etnic" value="E" id="Etnic"><label for="Etnic">&nbsp;Этнические</label></div><br>
+
+
+
+<div class="checkbox2"><input type="checkbox" name="ambient" value="A" id="Amb"><label for="Amb">&nbsp;Ambient</label></div><br></td>
+
+        <td>
+
+        <div class="checkbox2"><input type="checkbox" name="key" value="K" id="Key"><label for="Key">&nbsp;Клавишные</label></div><br>
+
+
+
+            <div class="checkbox2"><input type="checkbox" name="wind" value="W" id="Wind"><label for="Wind">&nbsp;Духовые</label></div><br></td>
+
+
+
+<td><div class="checkbox2"><input type="checkbox" name="elec" value="EL" id="Elec"><label for="Elec">&nbsp;Электро</label></div><br>
+
+
+
+
+
+<div class="checkbox2"><input type="checkbox" name="vocal" value="V" id="Vocal"><label for="Vocal">&nbsp;Вокал</label></div><br></td>
+
+        
+
+        </table>
+
+
+
+    
+
+    
+
+    <div class="cat">Желаемый размер<div class="zakladka">*<b>Gb</b></div></div><br>
+
+        
+
+        &nbsp;От <input type="text" name="int_start_size" size="17" class="forma-size" placeholder="0.538" /> &nbsp;До <input type="text" name="int_end_size" size="17" class="forma-size" placeholder="6.237" />
+
+         <br>
+
+    
+
+    <button type="reset" class="sbros"><span>   <i class="fa fa-trash-o"></i>&nbsp;Cброс выбора</span></button>
+
+    <button type="submit" class="poisk"><span><i class="fa fa-search"></i>&nbsp;Выполнить поиск</span></button>
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+                        </div></div></article>
+
+
+
+                <article class="samp2-story">
+
+                    <div class="short-left">
+
+                        <div align="left">
+
+                            <div class="block-content">
+
+
+
+                                <ul class="topvstimain-ul">
+
+                                    <b>
+
+                                        <img src="http://infodengy.ru/wp-content/uploads/2013/03/11.jpg"
+
+                                             alt="Cкачать Sylenth1 кряк с торрента">
+
+
+
+
+
+
+
+
+
+                                        <div class="htitle-main"><b> </b>
+
+
+
+
+
+                                    </div> 
+
+                                        </b>
+
+                                </ul>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </td>
+
+        </table>
+
+
+
+        <article class="sam1-story sample-main-story">
+
+            <div class="short-left">
+
+
+
+                <p>
+
+                <div class="top-line"></div>
+
+
+
+
+
+                <div align="right">
+
+
+
+                     </li>
+
+
+
+            </ul>
+
+        </div>
+
+    </div>
+
+
+
+    <div id="bottom-footer">
+
+        <div class="center">
+
+            <table style="position:absolute;" width="200px">
+
+                <td>
+
+                    <div id="logo-box">
+
+                        <span>Библиотека<b>Сэмплов</b></span>
+
+                        <i>Все для создания музыки</i></div></td>
+
+
+
+
+
+                <td> 
+
+                </td><td>
+
+                     
+
+
+
+            <ul>
+
+                <li>
+
+                     
+
+                </li>
+
+
+
+
+
+                <!--
+
+<li>
+
+<a href="https://metrika.yandex.ru/stat/?id=28109883&amp;from=informer"
+
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/28109883/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:28109883,lang:'ru'});return false}catch(e){}"/></a>
+
+</li>
+
+-->
+
+
+
+
+
+            </ul>
+
+         
+
+     
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="audio_player_bar" style="padding:0;">
+
+
+
+
+
+    <div id="ap1" class="audioplayer-tobe"
+
+         data-bgimage="https://samplepro.ru/uploads/posts/2016-02/1455827643_06-usrv2-cover-lr.jpg"
+
+         data-thumb="https://samplepro.ru/uploads/posts/2016-02/1455827643_06-usrv2-cover-lr.jpg"
+
+         data-thumb_link="https://samplepro.ru/uploads/posts/2016-02/1455827643_06-usrv2-cover-lr.jpg"
+
+         data-scrubbg="https://samplepro.ru/uploads/files/2016-02/1455827728_887.mp3_waves.png"
+
+         data-scrubprog="https://samplepro.ru/uploads/files/2016-02/1455827728_887.mp3_waves_progress.png"
+
+         data-type="normal"
+
+         data-source="https://samplepro.ru/uploads/files/2016-02/1455827728_887.mp3">
+
+
+
+        <div class="meta-artist">
+
+            <span class="the-artist">Monster Sounds</span>
+
+
+
+            <span class="the-name">Deep South Rap Acapellas 2</span>
+
+        </div>
+
+
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+<style type="text/css">
+
+    .audio_player_bar {
+
+
+
+        display: block;
+
+        opacity: 0;
+
+        position: fixed;
+
+        top: auto;
+
+        bottom: -200px;
+
+        left: 0;
+
+        right: 0;
+
+        width: 960px;
+
+        background: #fff;
+
+        z-index: 9999;
+
+        margin: 0 auto;
+
+        transition: 0.6s;
+
+    }
+
+
+
+    .audio_player_bar img {
+
+        margin: 0px;
+
+        padding: 0px;
+
+        border: none;
+
+    }
+
+    .on-play {
+
+        opacity: 1;
+
+        bottom: 0;
+
+        transition: 0.6s;
+
+</style>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ <div><img src="https://mc.yandex.ru/watch/45765276" style="position:absolute; left:-9999px;" alt="" /></div> 
+
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+
+
+
+ 
+
+<div class="uSocial-Share" data-pid="2f73e3413536974b7fd6c403c4c0e0e0" data-type="share" data-options="round-rect,style1,default,left,slide-down,size48,eachCounter1,eachCounter-right,counter0" data-social="vk,ok,fb,twi,gPlus" data-mobile="vi,wa"></div>
+
+<!-- /uSocial -->
+
+ </body>
+
+</html>
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

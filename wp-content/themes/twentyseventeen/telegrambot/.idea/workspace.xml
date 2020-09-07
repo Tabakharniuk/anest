@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55217b1-e562-4786-8164-e44081992b7e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <folding>
+                <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init(get_updates).php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init(get_updates).php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="47" column="60" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="60" />
+              <folding>
+                <element signature="e#742#1060#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="telegramBot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telegramBot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="304" column="27" lean-forward="true" selection-start-line="304" selection-start-column="27" selection-end-line="304" selection-end-column="27" />
+              <folding>
+                <element signature="e#231#781#0#PHP" expanded="false" />
+                <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="e#3460#4292#0#PHP" expanded="false" />
+                <element signature="e#3508#4125#0#PHP" expanded="false" />
+                <element signature="e#4295#4506#0#PHP" expanded="false" />
+                <element signature="e#4509#4887#0#PHP" expanded="false" />
+                <element signature="e#5017#5253#0#PHP" expanded="false" />
+                <element signature="e#5580#6587#0#PHP" expanded="false" />
+                <element signature="e#5714#5963#0#PHP" expanded="false" />
+                <element signature="e#5969#6230#0#PHP" expanded="false" />
+                <element signature="e#6236#6567#0#PHP" expanded="false" />
+                <element signature="e#6591#6782#0#PHP" expanded="false" />
+                <element signature="e#6786#6965#0#PHP" expanded="false" />
+                <element signature="e#6969#7148#0#PHP" expanded="false" />
+                <element signature="e#7464#7928#0#PHP" expanded="false" />
+                <element signature="e#7932#8130#0#PHP" expanded="false" />
+                <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="e#8270#8386#0#PHP" expanded="false" />
+                <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+                <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataBase.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataBase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <folding>
+                <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+                <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+                <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+                <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+                <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+                <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+                <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+                <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+                <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+                <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+                <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+                <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+                <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+                <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+                <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+                <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+                <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+                <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+                <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+                <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+                <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+                <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+                <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+                <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+                <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+                <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+                <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+                <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+                <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+                <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+                <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+                <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <folding>
+                <element signature="e#288#340#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="155" column="39" lean-forward="false" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="39" />
+              <folding>
+                <element signature="n#checkPass#0;n#!!top" expanded="false" />
+                <element signature="e#35#563#0#PHP" expanded="false" />
+                <element signature="e#65#522#0#PHP" expanded="false" />
+                <element signature="e#608#798#0#PHP" expanded="false" />
+                <element signature="e#801#913#0#PHP" expanded="false" />
+                <element signature="n#checkNew#0;n#!!top" expanded="false" />
+                <element signature="e#1013#1051#0#PHP" expanded="false" />
+                <element signature="e#1057#1246#0#PHP" expanded="false" />
+                <element signature="e#1755#1806#0#PHP" expanded="false" />
+                <element signature="n#addForm#0;n#!!top" expanded="false" />
+                <marker date="1521028021345" expanded="true" signature="2701:2729" ph="..." />
+                <marker date="1521028021345" expanded="true" signature="2783:2797" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="57" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Я не зовсім зрозумів Вас</find>
+      <find>Виберіть бажану дату</find>
+      <find>Введіть групу</find>
+      <find>empty</find>
+      <find>u510</find>
+      <find>form</find>
+      <find>заголо</find>
+      <find>ана</find>
+      <find>ан</find>
+      <find>loca</find>
+      <find>dates</find>
+      <find>list</find>
+      <find>SELECT max_seats FROM dates WHERE dat</find>
+      <find>UPDATE list SET</find>
+      <find>Зареє</find>
+      <find>SELECT * FROM list WHERE date</find>
+      <find>UPDATE list SET statud</find>
+      <find>getDates</find>
+      <find>SELECT * FROM list WHERE date &gt;</find>
+      <find>-&gt;</find>
+      <find>getListByDate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Виберіть дату</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/submit.php" />
+        <option value="$PROJECT_DIR$/keyboard.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/admin/admin.php" />
+        <option value="$PROJECT_DIR$/admin/fotter.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/admin/head.php" />
+        <option value="$PROJECT_DIR$/admin/edit.php" />
+        <option value="$PROJECT_DIR$/init(get_updates).php" />
+        <option value="$PROJECT_DIR$/init.php" />
+        <option value="$PROJECT_DIR$/telegramBot.php" />
+        <option value="$PROJECT_DIR$/admin/function.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/dataBase.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="664" />
+    <option name="y" value="100" />
+    <option name="width" value="974" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="telegrambot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegrambot" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegram2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\telegrambot\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55217b1-e562-4786-8164-e44081992b7e" name="Default" comment="" />
+      <created>1519321089976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519321089976</updated>
+      <workItem from="1519321091497" duration="16116000" />
+      <workItem from="1519398022707" duration="4924000" />
+      <workItem from="1519484108709" duration="12964000" />
+      <workItem from="1519705455203" duration="17395000" />
+      <workItem from="1519728701716" duration="21000" />
+      <workItem from="1519801846087" duration="3197000" />
+      <workItem from="1519894757482" duration="532000" />
+      <workItem from="1519903220301" duration="11247000" />
+      <workItem from="1519973639194" duration="6329000" />
+      <workItem from="1520150918833" duration="11093000" />
+      <workItem from="1520187736461" duration="5968000" />
+      <workItem from="1520194114907" duration="16117000" />
+      <workItem from="1520330780326" duration="9612000" />
+      <workItem from="1520892973970" duration="13689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129204000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15016146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/telegramBot.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/dataBase.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="93" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="87" lean-forward="false" selection-start-line="41" selection-start-column="87" selection-end-line="41" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4913">
+          <caret line="289" column="25" lean-forward="false" selection-start-line="289" selection-start-column="25" selection-end-line="289" selection-end-column="25" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="87" lean-forward="false" selection-start-line="41" selection-start-column="87" selection-end-line="41" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="248" column="63" lean-forward="false" selection-start-line="248" selection-start-column="63" selection-end-line="248" selection-end-column="63" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="87" lean-forward="false" selection-start-line="41" selection-start-column="87" selection-end-line="41" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="248" column="63" lean-forward="false" selection-start-line="248" selection-start-column="63" selection-end-line="248" selection-end-column="63" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3723">
+          <caret line="219" column="41" lean-forward="true" selection-start-line="219" selection-start-column="41" selection-end-line="219" selection-end-column="41" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="34" lean-forward="false" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="49" lean-forward="true" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="11" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="68" selection-end-column="11" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="25" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="794" column="9" lean-forward="false" selection-start-line="794" selection-start-column="9" selection-end-line="794" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/site_global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4150" lean-forward="false" selection-start-line="0" selection-start-column="4150" selection-end-line="0" selection-end-column="4150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="1726" column="63" lean-forward="true" selection-start-line="1726" selection-start-column="38" selection-end-line="1726" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/fotter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="57" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init(get_updates).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="47" column="60" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="60" />
+          <folding>
+            <element signature="e#742#1060#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="e#288#340#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="155" column="39" lean-forward="false" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="39" />
+          <folding>
+            <element signature="n#checkPass#0;n#!!top" expanded="false" />
+            <element signature="e#35#563#0#PHP" expanded="false" />
+            <element signature="e#65#522#0#PHP" expanded="false" />
+            <element signature="e#608#798#0#PHP" expanded="false" />
+            <element signature="e#801#913#0#PHP" expanded="false" />
+            <element signature="n#checkNew#0;n#!!top" expanded="false" />
+            <element signature="e#1013#1051#0#PHP" expanded="false" />
+            <element signature="e#1057#1246#0#PHP" expanded="false" />
+            <element signature="e#1755#1806#0#PHP" expanded="false" />
+            <element signature="n#addForm#0;n#!!top" expanded="false" />
+            <marker date="1521028021345" expanded="true" signature="2701:2729" ph="..." />
+            <marker date="1521028021345" expanded="true" signature="2783:2797" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <marker date="1521028156318" expanded="true" signature="152:166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="304" column="27" lean-forward="true" selection-start-line="304" selection-start-column="27" selection-end-line="304" selection-end-column="27" />
+          <folding>
+            <element signature="e#231#781#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#getUpdates#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendMessageHTML#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#sendKeyboard#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#3460#4292#0#PHP" expanded="false" />
+            <element signature="e#3508#4125#0#PHP" expanded="false" />
+            <element signature="e#4295#4506#0#PHP" expanded="false" />
+            <element signature="e#4509#4887#0#PHP" expanded="false" />
+            <element signature="e#5017#5253#0#PHP" expanded="false" />
+            <element signature="e#5580#6587#0#PHP" expanded="false" />
+            <element signature="e#5714#5963#0#PHP" expanded="false" />
+            <element signature="e#5969#6230#0#PHP" expanded="false" />
+            <element signature="e#6236#6567#0#PHP" expanded="false" />
+            <element signature="e#6591#6782#0#PHP" expanded="false" />
+            <element signature="e#6786#6965#0#PHP" expanded="false" />
+            <element signature="e#6969#7148#0#PHP" expanded="false" />
+            <element signature="e#7464#7928#0#PHP" expanded="false" />
+            <element signature="e#7932#8130#0#PHP" expanded="false" />
+            <element signature="n#answer#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="e#8270#8386#0#PHP" expanded="false" />
+            <element signature="n#deleteStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+            <element signature="n#recoverStudentFromList#0;n#TelegramBot#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="n#__construct#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#queryArray#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#prepareText#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#date#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getDatesOfRegistrationAsKeyboard#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#log_conversation#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRegister#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listCheckAvailable#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listUpdate#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDelete#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listRecoverById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listSuccess#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#listGetChat_idById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#datesNew#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateGetById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateUpdateById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#dateDeleteById#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#subscribeToNews#0;n#dataBase#0;n#!!top" expanded="false" />
+            <element signature="n#getPreviusMessage#0;n#dataBase#0;n#!!top" expanded="false" />
+            <marker date="1521028189142" expanded="true" signature="1349:1392" ph="SELECT date " />
+            <marker date="1521028189142" expanded="true" signature="1349:1426" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="2168:2215" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2228" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2168:2235" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="2344:2363" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2376" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2386" ph="SELECT date_... dates" />
+            <marker date="1521028189142" expanded="true" signature="2344:2406" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3195" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="3154:3209" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3222" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3251" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3252" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="3154:3256" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="4127:4611" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4244:4289" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4323:4404" ph="INSERT INTO last... " />
+            <marker date="1521028189142" expanded="true" signature="4425:4568" ph="INSERT INTO log_conversation... " />
+            <marker date="1521028189142" expanded="true" signature="4778:4842" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="4856:4992" ph="INSERT INTO list... " />
+            <marker date="1521028189142" expanded="true" signature="5182:5255" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="5202:5235" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5421:5472" ph="SELECT max_s... dates" />
+            <marker date="1521028189142" expanded="true" signature="5767:5834" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5847" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5767:5853" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5773:5807" ph="INSERT INTO FROM... " />
+            <marker date="1521028189142" expanded="true" signature="5963:6040" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="5963:6067" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="5963:6111" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6167:6204" ph="SELECT * FRO... list" />
+            <marker date="1521028189142" expanded="true" signature="6191:6204" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6254:6303" ph="UPDATE table... " />
+            <marker date="1521028189142" expanded="true" signature="6254:6304" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="6405:6455" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6614" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6556:6633" ph="UPDATE list " />
+            <marker date="1521028189142" expanded="true" signature="6735:6772" ph="SELECT chat_... list" />
+            <marker date="1521028189142" expanded="true" signature="6874:6961" ph="INSERT INTO dates... " />
+            <marker date="1521028189142" expanded="true" signature="7049:7087" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7198:7269" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7198:7296" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7277:7296" ph="SELECT * FRO... dates" />
+            <marker date="1521028189142" expanded="true" signature="7396:7446" ph="UPDATE dates... " />
+            <marker date="1521028189142" expanded="true" signature="7571:7623" ph="DELETE FROM " />
+            <marker date="1521028189142" expanded="true" signature="7656:7697" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7708" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7710" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7656:7711" ph="INSERT INTO subscribers... " />
+            <marker date="1521028189142" expanded="true" signature="7777:7827" ph="SELECT * FRO... last" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
